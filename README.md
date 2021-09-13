@@ -1,7 +1,7 @@
 
 # Mailers Checker
 
-![](./img.png)
+![](./img.PNG)
 
 ```bash
 

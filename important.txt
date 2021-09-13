@@ -1,0 +1,2 @@
+1. if you want put mailers with passwords write ?pass=Youpass
+Ex : example.com/mailer.php?pass=YourPass

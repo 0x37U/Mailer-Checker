@@ -24,5 +24,4 @@ pip install colorama
 # What's New
 
 <h1>More Tools In Telegram</h1>
-[Telegram Channel]: savagebenzofficial <br>
 [Telegram] : @x0x37U
